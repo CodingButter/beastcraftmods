@@ -1,0 +1,3 @@
+[submodule "JustEnoughItems"]
+	path = JustEnoughItems
+	url = https://github.com/mezz/JustEnoughItems.git
