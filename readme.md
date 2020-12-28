@@ -25,4 +25,4 @@ Make sure to add the trailing "trunk" Like in the photo
 ### Step 5.
 Press Ok When Finished
 
-![Press Ok](/intallation_images/installation_03.jpg)
+![Press Ok](/installation_images/installation_03.jpg)
