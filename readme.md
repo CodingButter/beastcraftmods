@@ -1,4 +1,4 @@
-[BeastCraft](https://github.com/codingbutter/beastcraftmods/blob/main/installation_images/server-icon.png?raw=true)
+[BeastCraft](/installation_images/server-icon.png)
 # BeastCraft Mods
 
 Welcome to the Server!! This is will show you how to join BeastCraft and how to stay up to date with the mods we use.
@@ -16,14 +16,14 @@ Download and install [TortoiseSVN](https://osdn.net/frs/redir.php?m=xtom_us&f=%2
 ### Step 3.
 Use the right click menu to pull the most up to date mods for BeastCraft.
 
-[Check out Repo](https://github.com/codingbutter/beastcraftmods/blob/main/installation_images/installation_01.png?raw=true)
+[Check out Repo](/installation_images/installation_01.png?raw=true)
 
 ### Step 4.
 Make sure to add the trailing "trunk" Like in the photo
 
-[Checkout trunk](https://github.com/codingbutter/beastcraftmods/blob/main/installation_images/installation_02.png?raw=true)
+[Checkout trunk](/installation_images/installation_02.png?raw=true)
 
 ### Step 5.
 Press Ok When Finished
 
-[Press Ok](https://github.com/codingbutter/beastcraftmods/blob/main/installation_images/installation_03.png?raw=true)
+[Press Ok](/installation_03.png?raw=true)
