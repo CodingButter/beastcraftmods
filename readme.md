@@ -1,4 +1,4 @@
-#![BeastCraft](/installation_images/server-icon.png) BeastCraft Mods
+# ![BeastCraft](/installation_images/server-icon.png) BeastCraft Mods
 
 Welcome to the Server!! This is will show you how to join BeastCraft and how to stay up to date with the mods we use.
 
