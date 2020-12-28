@@ -1,1 +1,1 @@
-This is the BeastCraft Mod repo
+This is the BeastCraft Mod repo :)
