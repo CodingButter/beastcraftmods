@@ -19,6 +19,9 @@ Use the right click menu to pull the most up to date mods for BeastCraft.
 
 ### Step 4.
 Make sure to add the trailing "trunk" Like in the photo
+```
+https://github.com/codingbutter/beastcraftmods.git\trunk
+```
 
 ![Checkout trunk](/installation_images/installation_02.jpg)
 
